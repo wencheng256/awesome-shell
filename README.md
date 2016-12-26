@@ -20,6 +20,7 @@
 ## 命令行效率
 
 *使你的终端体验更有效率的搜索、书签、多路复用、以及其它工具。*
+- 我在这标出一些个人认为十分有用的工具
 
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串
 * [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名
