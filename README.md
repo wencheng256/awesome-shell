@@ -22,7 +22,7 @@
 *使你的终端体验更有效率的搜索、书签、多路复用、以及其它工具。*
 - 我在这使用[重要/有用/一半]标出一些个人认为十分有用的工具
 
-* [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串 [有用]
+* [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串 [重要]
 * [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名 [一般]
 * [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序 [一般]
 * [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境 [一般]
@@ -46,28 +46,28 @@
 * [hstr](https://github.com/dvorka/hstr) - Bash 历史建议框
 * [k](https://github.com/supercrabtree/k) - k 是一个使目录列表更可读的 Zsh 脚本，它增添了 Git 状态、文件颜色、以及腐朽的日期
 * [k alias](https://github.com/lingtalfi/k) - 获得用于单行的酷 alias
-* [marker](https://github.com/pindexis/marker) - 将你的 shell 命令加到书签
+* [marker](https://github.com/pindexis/marker) - 将你的 shell 命令加到书签 [重要] *用来存储并搜索常用命令 十分方便*
 * [parallel](http://www.gnu.org/software/parallel/) - 以并行化方式从标准输入构造并执行 shell 命令行
 * [pathpicker](https://github.com/facebook/PathPicker) - 允许将 grep、搜索、git 等的输出结果作为输入，并提供友好的选择界面，以便打开或作为命令的参数
-* [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤
+* [percol](https://github.com/mooz/percol) - 为传统的 UNIX shell 管道添加交互式的过滤 [有用]*用来扩展传统管道符，能够产生一个交互界面选择输出中你想要的部分*
 * [qfc](https://github.com/pindexis/qfc) - 针对 Bash 和 Zsh 的文件补全 widget
-* [SHML](https://github.com/odb/shml) - 适用于终端的样式框架 (Shell 标记语言)
-* [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式
+* [SHML](https://github.com/odb/shml) - 适用于终端的样式框架 (Shell 标记语言)[有用]*SHELL的html 开发shell工具比较有用*
+* [slugify](https://github.com/benlinton/slugify) - 将文件名及目录转换为 web 友好的格式 [有用]*将文件名转化为web友好*
 * [sman](https://github.com/tokozedg/sman) - :bug: 命令行下的片断管理器
-* [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell 中
-* [Shark](https://github.com/fisherman/shark) - ▁▂▃▅ Sparkline 生成器
+* [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ 在你的 shell [一般] *柱状图生成器*
+* [Shark](https://github.com/fisherman/shark) - ▁▂▃▅ Sparkline 生成器 [一般] *柱状图生成器*
 * [sheet](https://github.com/oscardelben/sheet) -  用于命令行的文本片断
-* [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具
+* [spot](https://github.com/rauchg/spot) - 微型的文件搜索工具 [有用]*ack*
 * [snips](https://github.com/srijanshetty/snips) - 管理代码片断的命令行工具
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
-* [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误
+* [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误 [重要]
 * [tmux](http://tmux.github.io/) - 很棒的终端复用器
 * [up](https://github.com/shannonmoeller/up) - 按名称或计数升序排列目录，支持 bash 和 zsh
 * [v](https://github.com/rupa/v) - 适用于 Vim 的 z
-* [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易
-* [z](https://github.com/rupa/z) - z 是新的 j
+* [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易 
+* [z](https://github.com/rupa/z) - z 是新的 j [重要]
 
 ## 定制
 
