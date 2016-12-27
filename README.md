@@ -23,24 +23,24 @@
 - 我在这使用[重要/有用/一半]标出一些个人认为十分有用的工具
 
 * [ag](https://github.com/ggreer/the_silver_searcher) - 在层级目录中超快的搜索字符串 :rocket: [重要]
-* [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名  :rocket:[一般]
-* [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序 :rocket: [一般]
-* [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境 :rocket: [一般]
-* [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录  :rocket:[有用] *类似z 用来智能跳转的 感觉不如z实用*
-* [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: 在云中的 bash 历史，已索引且可搜索。 :rocket:[有用] *能储存并搜索所有的命令，感觉在当日志比较有用* 
+* [aliases](https://github.com/sebglazebrook/aliases) - 针对 bash 的上下文动态组织别名 [一般]
+* [aliasme](https://github.com/Jintin/aliasme) - 用来快速更改目录的 alias 辅助程序  [一般]
+* [autoenv](https://github.com/kennethreitz/autoenv) - 基于目录的环境 [一般]
+* [autojump](https://github.com/wting/autojump) - 自带学习功能的 cd 命令，从命令行轻易地导航目录 [有用] *类似z 用来智能跳转的 感觉不如z实用*
+* [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: 在云中的 bash 历史，已索引且可搜索。 [有用] *能储存并搜索所有的命令，感觉在当日志比较有用* 
 * [bashmarks](https://github.com/huyng/bashmarks) - 适用于 shell 的目录书签  :rocket:[重要] *可以给目录打上书签 方便跳转*
 * [bd](https://github.com/vigneshwaranr/bd) - 迅速回到父目录  :rocket:[重要] *cd是向下跳 bd是向上跳 利用tab可以轻松的一个短命令调到上某级文件夹*
-* [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具 :rocket:[有用]*很强大的创建项目工具，但是比较少直接在命令行开发，用的可能性并不大*
+* [boilr](https://github.com/tmrts/boilr) - 从 boilerplate 模板创建项目的超快命令行工具 [有用]*很强大的创建项目工具，但是比较少直接在命令行开发，用的可能性并不大*
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接及片断 [一般] *粘贴板控制器 不用GUI基本用不到*
 * [borg](https://github.com/ok-borg/borg) - 基于终端的 bash 命令搜索引擎
 * [byobu](http://byobu.co/) - 基于文本的窗口管理器及终端多路复用器 [一般] *基于终端的多窗口控制器*
 * [commacd](https://github.com/shyiko/commacd) - 在 Bash 中更快速的移动方式 [一般] *不如z或者j好用*
 * [desk](https://github.com/jamesob/desk) - 适用于 shell 的轻量级工作区管理器[一般] 
 * [direnv](https://github.com/direnv/direnv) - 针对 shell 的环境切换工具（利用 autoenv 比较）
-* [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 具有交互式过滤功能的下一代 cd 命令[重要] *交互式的cd 感觉在某种程度上比z系列好用*
+* [enhancd](https://github.com/b4b4r07/enhancd) - 具有交互式过滤功能的下一代 cd 命令 :rocket: [重要] *交互式的cd 感觉在某种程度上比z系列好用*
 * [fasd](https://github.com/clvv/fasd) - 命令行效率提升器，提供快速访问文件及目录 [一般] *快速打开文件，GUI可能更有用一些*
 * [foxy](https://github.com/s-p-k/foxy) - 适合 Firefox 及 Surf 浏览器的无格式文本书签 [一般] *个人感觉顶没用*
-* [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器 [重要]
+* [fzf](https://github.com/junegunn/fzf) - 命令行下的模糊搜索器 :rocket: [重要]
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中给单词着色
 * [hr](https://github.com/LuRsT/hr) - 适用于终端的 `<hr />`
 * [hstr](https://github.com/dvorka/hstr) - Bash 历史建议框
@@ -62,12 +62,12 @@
 * [sshfs](https://github.com/osxfuse/sshfs) - 通过 SSH 挂载远程文件系统的工具
 * [sshrc](https://github.com/Russell91/sshrc) - SSH 时带上你的 .bashrc、.vimrc 等
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - 从终端学习英语词汇
-* [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误 [重要]
+* [thefuck](https://github.com/nvbn/thefuck) - 通过使用容易记住的命令修正常见的 shell 错误 :rocket: [重要]
 * [tmux](http://tmux.github.io/) - 很棒的终端复用器
 * [up](https://github.com/shannonmoeller/up) - 按名称或计数升序排列目录，支持 bash 和 zsh
 * [v](https://github.com/rupa/v) - 适用于 Vim 的 z
 * [wemux](https://github.com/zolrath/wemux) - 多用户使用 Tmux 变得更容易 
-* [z](https://github.com/rupa/z) - z 是新的 j [重要]
+* [z](https://github.com/rupa/z) - z 是新的 j :rocket: [重要] *最快的方式跳转到最常用的目录*
 
 ## 定制
 
